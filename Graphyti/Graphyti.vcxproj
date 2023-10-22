@@ -24,6 +24,7 @@
     <ProjectGuid>{d677000f-45ca-4c15-86d4-a3307ed188de}</ProjectGuid>
     <RootNamespace>Graphyti</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>main</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
