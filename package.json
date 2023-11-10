@@ -1,0 +1,19 @@
+{
+  "name": "graphyti",
+  "version": "1.0.0",
+  "description": "<p align=\"center\">\r     <img src = \"./assets/logo.png\"\" style=\"vertical-align:middle\" width=\"100\">\r </p>\r <p align=\"center\">\r   <i>Your AI Companion for Breaking Imagination </i>\r </p>\r <p>&nbsp;</p>\r <h1 align=\"center\">📖 A Guide to Graphyti </h1>\r <p> Introducing <b>Graphyti</b>, the first game in the world to allow the creation of personalised physics through generative AI and blockchain. </p>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/howllian27/Graphyti.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/howllian27/Graphyti/issues"
+  },
+  "homepage": "https://github.com/howllian27/Graphyti#readme"
+}
