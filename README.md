@@ -26,9 +26,6 @@
       <img height="60" src="./assets/infinigen.png">
   </kbd>
   <kbd>
-      <img height="60" src="./assets/webgl.png">
-  </kbd>
-  <kbd>
       <img height="60" src="./assets/react.png">
   </kbd>
   <kbd>
@@ -44,7 +41,7 @@
       <img height="60" src="./assets/aws.png">
   </kbd>
   <br></br>
-  <b> PyTeal | Unity | OpenAI | Infinigen | WebGL | ReactJS | NodeJS | PyTorch | Docker | AWS </b>
+  <b> PyTeal | Unity | OpenAI | Infinigen | ReactJS | NodeJS | PyTorch | Docker | AWS </b>
 </p>
 </div>
 <p>&nbsp;</p>
