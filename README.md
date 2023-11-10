@@ -54,7 +54,7 @@
 <h1> The Team </h1>
 <table>
   <tr>
-    <th><img width="180px" src="./assets/pics/howell.png"></th>
+    <th><img width="180px" src="./assets/pics/howell1.png"></th>
     <th><img width="180px" src="./assets/pics/eunice.jpg"></th>
     <th><img width="180px" src="./assets/pics/chenglin.jpg"></th>
     <th><img width="180px" src="./assets/pics/jinfeng.jpg"></th>
