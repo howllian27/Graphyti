@@ -51,8 +51,11 @@
 <p>&nbsp;</p>
 <h1>🔨 Core Functionalities </h1>
 <h2> Step 1 : Set up your digital passport and Algorand wallet </h2>
-<th><img width="180px" src="./mockups/Wallet1.png"></th>
+<th><img width="180px" src="./assets/mockups/Wallet1.png"></th>
 <h2> Step 2 : Set up your world with Graphyti </h2>
+<th><img width="180px" src="./assets/mockups/world_asset1.png"></th>
+<th><img width="180px" src="./assets/mockups/world_asset2.png"></th>
+<th><img width="180px" src="./assets/mockups/world_asset3.png"></th>
 <h2> Step 3 : See whats buzzing in the decentralised NFT marketplace </h2>
 
 <h1> Our Enterprise Architecture </h1>
