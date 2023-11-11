@@ -50,6 +50,10 @@
 <p>Youtube Video Link: Click <a href="https://www.youtube.com/watch?v=HC3zb6tuXyQ">here</a> </p>
 <p>&nbsp;</p>
 <h1>🔨 Core Functionalities </h1>
+<h2> Step 1 : Set up your digital passport and Algorand wallet </h2>
+<h2> Step 2 : Set up your world with Graphyti </h2>
+<h2> Step 3 : See whats buzzing in the decentralised NFT marketplace </h2>
+
 <h1> Our Enterprise Architecture </h1>
 <h1> The Team </h1>
 <table>
