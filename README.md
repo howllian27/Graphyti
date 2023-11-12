@@ -70,7 +70,9 @@ It verifies the proof with the public key to ensure its validity and checks if t
 <th><img width="400px" src="./assets/mockups/world_asset1.png"></th>
 <th><img width="400px" src="./assets/mockups/world_asset2.png"></th>
 <th><img width="400px" src="./assets/mockups/world_asset3.png"></th>
+<th><img width="400px" src="./assets/mockups/world_asset4.png"></th>
 <h2> Step 3 : See whats buzzing in the decentralised NFT marketplace </h2>
+<th><img width="400px" src="./assets/mockups/Interact.png"></th>
 
 <h1> Our Enterprise Architecture </h1>
 <h1> The Team </h1>
