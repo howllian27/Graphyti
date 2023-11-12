@@ -1,6 +1,8 @@
 # Sample PyTeal script (extremely simplified)
 from pyteal import *
 
+handle_creation = Seq(App.globalPut(Bytes("Count"), Int(0)), Approve())
+
 def approval_program():
     on_initialization = Seq([
         # On initialization, set 2 global variables
@@ -11,10 +13,14 @@ def approval_program():
 
     on_call = Seq([
         # On call, check for different user inputs and handle them appropriately
+        scratchCount = ScratchVar(TealType.uint64)
+        scratchCount.store(App.globalGet(Bytes("Count")))
+
         Cond(
             [Txn.application_id() == Int(0), Seq([
                 # If creating new passport, store user's passport data
-                App.localPut(Int(0), Bytes("passportData"), Txn.application_args[1]),
+                App.localPut(scratchCount, Bytes("passportData"), Txn.application_args[1]),
+                App.globalPut(Bytes("Count"), scratchCount.load() + Int(1)),
                 Return(Int(1))
             ])],
             [Txn.application_id() != Int(0), Seq([
