@@ -50,10 +50,10 @@
 <p>Youtube Video Link: Click <a href="https://www.youtube.com/watch?v=HC3zb6tuXyQ">here</a> </p>
 <p>&nbsp;</p>
 <h1>🎮 Core Web3.0 Game Mechanisms </h1>
-<h2>Physics NFTs</h2>
-<h2>Smart Contracts</h2>
-<h2>Digital Passport</h2>
-<h2>Verifiable Random Function</h2>
+<h2>1. Physics NFTs</h2>
+<h2>2. Smart Contracts</h2>
+<h2>3. Digital Passport</h2>
+<h2>4. Verifiable Random Function</h2>
 <p>It's adapted to work within the context of an AI-generated game where customizable physics can influence the game outcomes.</p>
 <p>1. Generating Seed, Salt, and Hash:
 generate_seed_salt_hash: This function creates a random seed and salt using cryptographic methods and derives their hashes. It's a critical step in establishing unique and unpredictable values for further calculations.</p>
@@ -67,6 +67,10 @@ The outcome is calculated based on beta, influenced by the physics parameters, e
 <p> 4. Verifying the Outcome:
 verify: This function ensures the integrity and authenticity of the generated outcome.
 It verifies the proof with the public key to ensure its validity and checks if the derived hash matches the provided hash, guaranteeing that the game's outcome hasn't been tampered with and is indeed verifiable.</p>
+<h1>🤖 Core Generative AI/Unity Technologies </h1>
+<h2>1. Rendering: Infinigen Framework</h2>
+<h2>2. Generative AI: OpenAI LLM Code Generation on Unity</h2>
+<h2>3. Physics: Finetuning LLM Outputs with Custom Physics Engine</h2>
 <h2> Step 1 : Set up your digital passport and Algorand wallet </h2>
 <th style="align-items: center;"><img width="400px" src="./assets/mockups/Wallet1.png"></th>
 <th style="text-align: center;"><img width="400px" src="./assets/mockups/Wallet2.png"></th>
