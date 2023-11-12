@@ -65,17 +65,17 @@ The outcome is calculated based on beta, influenced by the physics parameters, e
 verify: This function ensures the integrity and authenticity of the generated outcome.
 It verifies the proof with the public key to ensure its validity and checks if the derived hash matches the provided hash, guaranteeing that the game's outcome hasn't been tampered with and is indeed verifiable.</p>
 <h2> Step 1 : Set up your digital passport and Algorand wallet </h2>
-<th><img width="400px" src="./assets/mockups/Wallet1.png"></th>
-<th><img width="400px" src="./assets/mockups/Wallet2.png"></th>
-<th><img width="400px" src="./assets/mockups/Wallet3.png"></th>
+<th style="text-align: center;"><img width="400px" src="./assets/mockups/Wallet1.png"></th>
+<th style="text-align: center;"><img width="400px" src="./assets/mockups/Wallet2.png"></th>
+<th style="text-align: center;"><img width="400px" src="./assets/mockups/Wallet3.png"></th>
 <h2> Step 2 : Set up your world with Graphyti </h2>
-<th><img width="400px" src="./assets/mockups/world_asset1.png"></th>
-<th><img width="400px" src="./assets/mockups/world_asset2.png"></th>
-<th><img width="400px" src="./assets/mockups/world_asset3.png"></th>
-<th><img width="400px" src="./assets/mockups/world_asset4.png"></th>
+<th style="text-align: center;"><img width="400px" src="./assets/mockups/world_asset1.png"></th>
+<th style="text-align: center;"><img width="400px" src="./assets/mockups/world_asset2.png"></th>
+<th style="text-align: center;"><img width="400px" src="./assets/mockups/world_asset3.png"></th>
+<th style="text-align: center;"><img width="400px" src="./assets/mockups/world_asset4.png"></th>
 <h2> Step 3 : See whats buzzing in the decentralised NFT marketplace </h2>
-<th><img width="400px" src="./assets/mockups/Interact.png"></th>
-<th><img width="400px" src="./assets/mockups/Market.png"></th>
+<th style="text-align: center;"><img width="400px" src="./assets/mockups/Interact.png"></th>
+<th style="text-align: center;"><img width="400px" src="./assets/mockups/Market.png"></th>
 
 <h1> Our Enterprise Architecture </h1>
 <h1> The Team </h1>
