@@ -69,8 +69,10 @@ verify: This function ensures the integrity and authenticity of the generated ou
 It verifies the proof with the public key to ensure its validity and checks if the derived hash matches the provided hash, guaranteeing that the game's outcome hasn't been tampered with and is indeed verifiable.</p>
 <h1>🤖 Multi-Agent Pipeline Utilising Generative AI and Unity </h1>
 This pipeline focuses on how we handled the full environment development process on Unity, starting from the rendering all the way to the dynamic adjustment of physics based on text prompts.
-<h2>1. Rendering Agent: Infinigen Framework</h2>
-<p>The Infinigen framework is a procedural generation system used for creating infinite , randomised 3D worlds. We used Infinigen's algorithms to create static worlds, consisting of terrain, objects and even live organisms.</p>
+<h2>1. Rendering Agent: Generating 3D Worlds with Infinigen & Wave Function Collapse Algorithm</h2>
+<p>Initially, the Infinigen framework can be used to generate the base terrain and larger environmental structures. This includes creating landscapes like mountains, valleys, rivers, and plains. Infinigen's procedural generation algorithms ensure that these terrains are vast, diverse, and infinite, providing a broad canvas for further detailing.
+
+Once the base terrain is generated, the WFC algorithm can be applied to populate these terrains with smaller-scale details. WFC is particularly effective in creating complex, local patterns that obey specific rules, like tiling patterns for city streets, arrangement of trees in a forest, or the layout of rocks and vegetation. It ensures that these details are coherent and follow the logical structure of the environment.</p>
 <h2>2. Language Agent: Finetuning Text Prompts & Physics Parameters with Custom Text-Based Physics Engine</h2>
 <p>We developed a natural language processing (NLP) module that analyses user's inputs and transforms it into a more technically accurate and detailed prompt. We integrated the prompts into a mapping system that translates such refined prompts into specific physics parameters. For example, "reverse gravity" could be mapped to negative values for gravitational force in the engine's physics calculations. </p>
 <h2>3. Construct Agent: OpenAI LLM Code Generation on Unity</h2>
