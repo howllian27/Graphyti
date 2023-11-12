@@ -6,7 +6,7 @@
 </p>
 <p>&nbsp;</p>
 <h1>📖 A Guide to Graphyti </h1>
-<p align="center"><img height="400" src="./assets/mockups/gameplay.png"></p>
+<p align="center"><img height="600" src="./assets/mockups/gameplay.png"></p>
 <p> Introducing <b>Graphyti</b>, the first game in the world to allow the creation of personalised physics through generative AI and blockchain. </p>
 
 <p> With generative AI currently focused on the rendering of visually striking images, our team proposes an idea that goes beyond the current concept of image generation to instead allow users to customise even the physics itself. In our product, we hope to allow users to personalise their own 3D world with its own unique physics from scratch, using a series of text and image prompts. </p>
