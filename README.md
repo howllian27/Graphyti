@@ -47,8 +47,8 @@
 </div>
 <p>&nbsp;</p>
 <h1>📽️ Demo Video </h1>
-<img height="500" src="./assets/mockups/home.png">
-<p>Youtube Video Link: Click <a href="">here</a> </p>
+<img height="500" src="./assets/mockups/demo.png">
+<p>Youtube Video Link: Click <a href="https://youtu.be/QmGae7A_Sec">here</a> </p>
 <p>&nbsp;</p>
 <h1>🎮 Core Web3.0 Game Mechanisms Utilising the Algorand Blockchain </h1>
 <h2>1. Physics NFTs</h2>
