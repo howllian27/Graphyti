@@ -54,7 +54,7 @@
 <h2>2. Smart Contracts</h2>
 <h2>3. Digital Passport</h2>
 <h2>4. Verifiable Random Function</h2>
-<p>It's adapted to work within the context of an AI-generated game where customizable physics can influence the game outcomes.</p>
+<p>VRF is adapted to work within the context of an AI-generated game where customizable physics can influence the game outcomes.</p>
 <p>1. Generating Seed, Salt, and Hash:
 generate_seed_salt_hash: This function creates a random seed and salt using cryptographic methods and derives their hashes. It's a critical step in establishing unique and unpredictable values for further calculations.</p>
 <p>2. Generating an Outcome:
