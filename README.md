@@ -96,6 +96,7 @@ Once the base terrain is generated, the WFC algorithm can be applied to populate
 <th style="text-align: center;"><img width="400px" src="./assets/mockups/Market.png"></th>
 
 <h1> Our Enterprise Architecture </h1>
+<img height="500" src="./assets/system_arch.png">
 <h1> The Team </h1>
 <table>
   <tr>
