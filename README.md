@@ -49,7 +49,10 @@
 <img height="500" src="./assets/mockups/home.png">
 <p>Youtube Video Link: Click <a href="https://www.youtube.com/watch?v=HC3zb6tuXyQ">here</a> </p>
 <p>&nbsp;</p>
-<h1>🔨 Core Functionalities </h1>
+<h1>🎮 Core Web3.0 Game Mechanisms </h1>
+<h2>Physics NFTs</h2>
+<h2>Smart Contracts</h2>
+<h2>Digital Passport</h2>
 <h2>Verifiable Random Function</h2>
 <p>It's adapted to work within the context of an AI-generated game where customizable physics can influence the game outcomes.</p>
 <p>1. Generating Seed, Salt, and Hash:
