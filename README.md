@@ -71,6 +71,7 @@ It verifies the proof with the public key to ensure its validity and checks if t
 <h2>1. Rendering: Infinigen Framework</h2>
 <h2>2. Generative AI: OpenAI LLM Code Generation on Unity</h2>
 <h2>3. Physics: Finetuning LLM Outputs with Custom Physics Engine</h2>
+<h1>📱 Our 3-Step User Journey</h1>
 <h2> Step 1 : Set up your digital passport and Algorand wallet </h2>
 <th style="align-items: center;"><img width="400px" src="./assets/mockups/Wallet1.png"></th>
 <th style="text-align: center;"><img width="400px" src="./assets/mockups/Wallet2.png"></th>
