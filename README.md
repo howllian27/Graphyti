@@ -54,16 +54,16 @@
 <p>It's adapted to work within the context of an AI-generated game where customizable physics can influence the game outcomes.</p>
 1. Generating Seed, Salt, and Hash:
 generate_seed_salt_hash: This function creates a random seed and salt using cryptographic methods and derives their hashes. It's a critical step in establishing unique and unpredictable values for further calculations.
-2. enerating an Outcome:
+<p>2. Generating an Outcome:
 generate_outcome: Given a private key, a game-specific parameter (alpha), and customizable physics parameters, this function creates a verifiable game outcome.
-It utilizes the seed, salt, and other parameters to generate a unique and deterministic outcome that's influenced by the provided physics parameters.
-3. Generating Beta and Proof:
+It utilizes the seed, salt, and other parameters to generate a unique and deterministic outcome that's influenced by the provided physics parameters.</p>
+<p>3. Generating Beta and Proof:
 generate_beta_and_proof: This function is responsible for creating a random value (beta), its corresponding proof, and the game outcome based on the provided parameters.
 It incorporates the seed, salt, alpha, and the customizable physics parameters to create a unique deterministic value (beta) and a digital signature (proof) using the private key.
-The outcome is calculated based on beta, influenced by the physics parameters, ensuring that game results are influenced by these customizable aspects.
-4.Verifying the Outcome:
+The outcome is calculated based on beta, influenced by the physics parameters, ensuring that game results are influenced by these customizable aspects.</p>
+<p> 4.Verifying the Outcome:
 verify: This function ensures the integrity and authenticity of the generated outcome.
-It verifies the proof with the public key to ensure its validity and checks if the derived hash matches the provided hash, guaranteeing that the game's outcome hasn't been tampered with and is indeed verifiable.
+It verifies the proof with the public key to ensure its validity and checks if the derived hash matches the provided hash, guaranteeing that the game's outcome hasn't been tampered with and is indeed verifiable.</p>
 <h2> Step 1 : Set up your digital passport and Algorand wallet </h2>
 <th><img width="400px" src="./assets/mockups/Wallet1.png"></th>
 <h2> Step 2 : Set up your world with Graphyti </h2>
