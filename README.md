@@ -67,10 +67,14 @@ The outcome is calculated based on beta, influenced by the physics parameters, e
 <p> 4. Verifying the Outcome:
 verify: This function ensures the integrity and authenticity of the generated outcome.
 It verifies the proof with the public key to ensure its validity and checks if the derived hash matches the provided hash, guaranteeing that the game's outcome hasn't been tampered with and is indeed verifiable.</p>
-<h1>🤖 Core Generative AI/Unity Technologies </h1>
-<h2>1. Rendering: Infinigen Framework</h2>
-<h2>2. Generative AI: OpenAI LLM Code Generation on Unity</h2>
-<h2>3. Physics: Finetuning LLM Outputs with Custom Physics Engine</h2>
+<h1>🤖 Multi-Agent Pipeline Utilising Generative AI and Unity </h1>
+This pipeline focuses on how we handled the full environment development process on Unity, starting from the rendering all the way to the dynamic adjustment of physics based on text prompts.
+<h2>1. Rendering Agent: Infinigen Framework</h2>
+<p>The Infinigen framework is a procedural generation system used for creating infinite , randomised 3D worlds. We used Infinigen's algorithms to create static worlds, consisting of terrain, objects and even live organisms.</p>
+<h2>2. Language Agent: Finetuning Text Prompts & Physics Parameters with Custom Text-Based Physics Engine</h2>
+<p>We developed a natural language processing (NLP) module that analyses user's inputs and transforms it into a more technically accurate and detailed prompt. We integrated the prompts into a mapping system that translates such refined prompts into specific physics parameters. For example, "reverse gravity" could be mapped to negative values for gravitational force in the engine's physics calculations. </p>
+<h2>3. Construct Agent: OpenAI LLM Code Generation on Unity</h2>
+<p>We integrated OpenAI's API into the Unity engine, such that the system takes the refined text input from the previous step to adjust the required physics parameters. The LLM dynamically compiles the code such that a new game environment is built on the Unity engine.</p>
 <h1>📱 Our 3-Step User Journey</h1>
 <h2> Step 1 : Set up your digital passport and Algorand wallet </h2>
 <th style="align-items: center;"><img width="400px" src="./assets/mockups/Wallet1.png"></th>
